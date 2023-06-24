@@ -42,11 +42,13 @@ Open the unzipped Digistump Drivers folder, as shown in the following image.
 Double-click either DPinst64.exe on a 64-bit Windows computer, or DPinst.exe on a 32-bit Windows computer to install the Digispark drivers or just click Install Drivers.exe to have it automatically detected.
 
 When prompted to install the driver with the following dialog box, click the Install button.
+
 ![Windows Security dialog box displaying: Would you like to install this device software? Digistump LLC Ports.](https://startingelectronics.org/tutorials/arduino/digispark/digispark-windows-setup/digistum-driver-install.png)
 
-If a dialog box pops up that displays Windows can't verify the publisher of this driver software, click the Install this driver software anyway button. Windows Security dialog box displaying: Windows can't verify the publisher of this driver software
+If a dialog box pops up that displays Windows can't verify the publisher of this driver software, click the Install this driver software anyway button(be smart though).
 
 ![Publisher Window Warning.](https://startingelectronics.org/tutorials/arduino/digispark/digispark-windows-setup/digistump-driver-install-warning.png)
+
 After the driver installation has finished, click the Finish button in the Device Driver Installation dialog box. 
 
 Once everything is installed you're ready to open the project file in this repository. 
