@@ -1,7 +1,9 @@
 Hardware:
 
 Digispark USB Development Board:
+
 http://digistump.com/products/1
+
 https://www.amazon.com/AiTrip-Digispark-Kickstarter-Attiny85-Development/dp/B0836WXQQR
 
 1. The first step of programming the Digispark is downloading the latest Arduino programming IDE.
